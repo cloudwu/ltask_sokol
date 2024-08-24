@@ -1,3 +1,6 @@
 [submodule "ltask"]
 	path = ltask
 	url = https://github.com/cloudwu/ltask
+[submodule "sokol"]
+	path = sokol
+	url = https://github.com/floooh/sokol.git

@@ -4,6 +4,6 @@ Install mingw gcc and gnu make first:
 
 > make
 
-And
+And run test :
 
-> lua test.lua
+> ./app.exe test.lua
